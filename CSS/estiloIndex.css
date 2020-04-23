@@ -1,0 +1,40 @@
+body {
+  background-image:url(../Imágenes/Main.jpg);
+}
+#cabecera1{
+  padding: 10px 15px 0px 15px;
+  min-height: 5px;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  background-color: #81667a;
+  margin: 0px 150px 0px 150px;
+  
+}
+#cabecera{
+  padding: 10px 15px 10px 15px;
+  text-align: center;
+  min-height: 10px;
+  background-color: #81667a;
+  margin: 0px 150px 0px 150px;
+  
+}
+
+#barra_navegacion{
+  font-family: 'Roboto Slab', serif;
+  margin: 0px 150px 0px 150px;
+}
+
+#principal{
+  background-color: #d5dbe0;
+  text-align: left;
+  margin:0px 150px 0px 150px;
+  font-family: 'Nunito', sans-serif;
+  padding: 15px 15px 15px 15px;
+}
+
+footer{
+  color:white;  
+  font-family: 'Roboto Slab', serif;
+  margin: 20px 150px 20px 150px;
+  background-color:#6c3459;
+}

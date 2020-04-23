@@ -1,0 +1,79 @@
+html, body{
+    height: 100%;
+}
+
+body {
+    background-image: url(../Imágenes/Main.jpg);
+}
+
+#cabecera{
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+    min-height: 10px;
+    background-color: #81667a;
+    margin: 10px 150px 0px 150px;
+    
+}
+  
+#barra_navegacion{
+    font-family: 'Roboto Slab', serif;
+    margin: 0px 150px 0px 150px;
+}
+
+#secundario{
+    background-color: #d5dbe0;
+    text-align: justify;
+    margin:0px 150px 0px 150px;
+    padding: 15px 15px 15px 15px;
+    font-family: 'Nunito', sans-serif;
+    min-height: 100%;
+}
+
+#titular_secundario h1{
+    font-family: 'Abel', sans-serif;
+}
+
+  .video_titulosecundario {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+  
+.video_titulosecundario iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 93%;
+    height: 100%;
+    padding: 10px 10px 10px 10px;
+    background-color: #361134;
+    text-align: center;
+    margin-top: 15px;
+}
+
+span{
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.checked{
+    color: orange;
+}
+  
+textarea{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+  
+button {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+  
+footer{
+    color:white;  
+    font-family: 'Roboto Slab', serif;
+    margin: 20px 150px 20px 150px;
+    background-color:#6c3459;
+  }
